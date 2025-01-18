@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🌱 I’m currently learning System Architecture Design
-- 💬 Ask me about [Laravel, C#, Go, Nodejs, Vue, React, AWS, Forge]
+- 💬 Ask me about [Laravel, Springboot, ASP.Net, Go, Nestjs, Vue, React, AWS, Forge, Docker]
 - 📫 How to reach me: ...
 
 <!-- [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ZED-Magdy)-->
