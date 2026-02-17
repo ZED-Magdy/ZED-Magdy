@@ -10,6 +10,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=ZED-Magdy)
-
-
-![maxzod GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZED-Magdy&show_icons=true&theme=dark)
